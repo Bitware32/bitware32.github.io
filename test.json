@@ -11,8 +11,8 @@
         "LoadLibrary_x86_address_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe"
     },
     "dll": {
-        "version": "3183",
-        "patched": true,
+        "version": "3184",
+        "patched": false,
         "downloadurl": "https://github.com/Bitware32/bitware32.github.io/raw/main/JJSploit.dll"
     }
 }
