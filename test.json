@@ -1,22 +1,22 @@
 {
     "ui": {
-        "version": 46,
-        "minimumversion": 46,
-        "downloadurl": "https://cdnwrd2.com/r/2/jjsploit/7.0.1/JJSploit_7.0.1_x86_en-US.msi",
-        "servermessage": "Please wait while we fix JJSploit - September 5",
-        "updateinfo": "7.x featuring a massive resource and performance overhaul.",
+        "version": 47,
+        "minimumversion": 47,
+        "downloadurl": "https://cdnwrd2.com/r/2/jjsploit/8.1.0/JJSploit_8.1.0_x64-setup.nsis.zip",
+        "servermessage": "Working as of September 12.",
+        "updateinfo": "8.x featuring overhaul.",
         "Indicium_Supra_dll": "https://cdn.discordapp.com/attachments/753114724215947267/955471688303255562/Module2.dll",
         "qdRFzx_exe": "https://github.com/wrdgitv3/wrdgitv3.github.io/raw/main/wrdxflux/81724/main.exe",
         "injDep": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Fluxteam_net_API.dll",
         "LoadLibrary_x86_address_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe"
     },
     "dll": {
-        "version": "3184",
+        "version": "3187",
         "patched": false,
-        "downloadurl": "https://github.com/Bitware32/bitware32.github.io/raw/main/JJSploit.dll",
+        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
         "dependencies": [
-            "https://cdn.discordapp.com/attachments/1275417688088248371/1283849394096963654/JJSploit.dll?ex=66e47d6c&is=66e32bec&hm=ec0c6be8ee88163e30c065fa4536690ff1c04fe2f36bcac946fa53676daba105&",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll", 
+            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
+            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libssl-3-x64.dll"
