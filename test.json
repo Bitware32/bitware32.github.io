@@ -15,7 +15,7 @@
         "patched": false,
         "downloadurl": "https://github.com/Bitware32/bitware32.github.io/raw/main/JJSploit.dll",
         "dependencies": [
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
+            "https://cdn.discordapp.com/attachments/1275417688088248371/1283849394096963654/JJSploit.dll?ex=66e47d6c&is=66e32bec&hm=ec0c6be8ee88163e30c065fa4536690ff1c04fe2f36bcac946fa53676daba105&",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll", 
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
