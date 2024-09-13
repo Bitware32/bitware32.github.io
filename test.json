@@ -15,6 +15,7 @@
         "patched": false,
         "downloadurl": "https://github.com/Bitware32/bitware32.github.io/raw/main/JJSploit.dll",
         "dependencies": [
+            "https://github.com/Bitware32/bitware32.github.io/raw/main/JJSploit.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll", 
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
