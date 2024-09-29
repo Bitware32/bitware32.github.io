@@ -1,25 +1,8 @@
 {
-    "ui": {
-        "version": 47,
-        "minimumversion": 47,
-        "downloadurl": "https://cdnwrd2.com/r/2/jjsploit/8.1.0/JJSploit_8.1.0_x64-setup.nsis.zip",
-        "servermessage": "Working as of September 12.",
-        "updateinfo": "8.x featuring overhaul.",
-        "Indicium_Supra_dll": "https://cdn.discordapp.com/attachments/753114724215947267/955471688303255562/Module2.dll",
-        "qdRFzx_exe": "https://github.com/wrdgitv3/wrdgitv3.github.io/raw/main/wrdxflux/81724/main.exe",
-        "injDep": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Fluxteam_net_API.dll",
-        "LoadLibrary_x86_address_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe"
-    },
-    "dll": {
-        "version": "3187",
-        "patched": false,
-        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
-        "dependencies": [
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libssl-3-x64.dll"
-        ]
-    }
+    "url": "https://github.com/Bitware32/bitware32.github.io/raw/refs/heads/main/JJSploit_8.10.0_x64_en-US.msi",
+    "version": "8.10.0",
+    "notes": "(THIS INSTALLS A NEW COPY OF JJSPLOIT. DELETE THE OLD ONE.) New global chat tab & stricter privacy policy adherence. ",
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaEFuWmJVc25TSnpaOVh3RVJWcGtHOVB1SlZsU3BJUjNNUy9zV3BlR29pSFluUlJNOTdDYUNaWlVXbWVGUk82cFpzUisyb1NnSk5RYWxmMnVhREcwaEppZWl4M1ZNTlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NjQ1MTkxCWZpbGU6SkpTcGxvaXRfOC4xMC4wX3g2NF9lbi1VUy5tc2kuemlwCjhjU3ExWit6OHJOL1dMMVNkeldXMHV0TDdnQ0VCaHF0Si9rSndaQW1zdk1KaXlVcGtPTWxXNGVPYjhrc1RhNjB6SS9HaFU1ODJqWFNSdXVQOXBiZER3PT0K",
+    "patched": false,
+    "globalMessage": "Working as of September 29 boii."
 }
